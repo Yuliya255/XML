@@ -1,2 +1,13 @@
-
-bug_report
+<!DOCTYPE HTML>
+<bug_report>
+  <Defect_ID>1</Defect_ID>
+  <Summary>The register button on the main page of the site does not work when clicked</Summary>
+  <STR>1.Go to the main page of the site.2.Click the REGISTER button</STR
+  <Project>Test</Project>
+  <Severety>critical</Severety>
+  <Priority>high</Priority>
+  <Status>assigned</Status>
+  <Author>Yuliya Ostapchuk</Author>
+  <Enviroments>OS Ubuntu 22.04 LTS,browser Google Chrome Version 102.0.5005.61 (Official Build) (64-bit)<Enviroments>
+   <AtachedFiles>no</AtachedFiles>
+  </bug_report>
